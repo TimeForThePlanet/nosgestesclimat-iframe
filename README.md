@@ -1,5 +1,5 @@
-# Nos Gestes Climat avec Time for the Planet
-Estimez votre impact personnel sur le climat en passant par le site de Time for the Planet : https://ngc.time-planet.com
+# Nos Gestes Climat avec Team for the Planet
+Estimez votre impact personnel sur le climat en passant par le site de Team for the Planet : https://ngc.time-planet.com
 
 Le site utilise l'iframe développé par Datagir : https://github.com/datagir/nosgestesclimat-site
 
